@@ -203,7 +203,7 @@
 15th Generation AKB48 Taniguchi Megu a.k.a. Omegu
 
 1st Generation SKE48 Inagaki Honami
-1st Generation SKE48 Oya Masana
+1st Generation SKE48 Oya Masana a.k.a. Masanya
 1st Generation SKE48 Ozeki Kiharu
 1st Generation SKE48 Ono Haruka
 1st Generation SKE48 Kuwabara Mizuki
@@ -225,20 +225,20 @@
 1st Generation SKE48 Yagami Kumi
 1st Generation SKE48 Yamashita Moe
 1st Generation SKE48 Nakanishi Yuka
- 
+
 2nd Generation SKE48 Akaeda Ririna
 2nd Generation SKE48 Abiru Riho
 2nd Generation SKE48 Iguchi Shiori
 2nd Generation SKE48 Ishida Anna
 2nd Generation SKE48 Isohara Kyoka
 2nd Generation SKE48 Ichihara Yuri
-2nd Generation SKE48 Uchiyama Mikoto
+2nd Generation SKE48 Uchiyama Mikoto a.k.a. Mikotti
 2nd Generation SKE48 Oshima Fuuka
 2nd Generation SKE48 Kato Tomoko
 2nd Generation SKE48 Kato Rumi
 2nd Generation SKE48 Kito Momona
-2nd Generation SKE48 Saito Makiko
-2nd Generation SKE48 Takayanagi Akane
+2nd Generation SKE48 Saito Makiko a.k.a. Makki
+2nd Generation SKE48 Takayanagi Akane a.k.a. Churi
 2nd Generation SKE48 Hashimoto Ayumi
 2nd Generation SKE48 Hayashi Seika
 2nd Generation SKE48 Furukawa Airi
@@ -254,88 +254,88 @@
 3rd Generation SKE48 Ogiso Shiori
 3rd Generation SKE48 Kizaki Yuria
 3rd Generation SKE48 Kinoshita Yukiko
-3rd Generation SKE48 Goto Risako
-3rd Generation SKE48 Suda Akari
+3rd Generation SKE48 Goto Risako a.k.a. Risachan
+3rd Generation SKE48 Suda Akari a.k.a. Akarin
 3rd Generation SKE48 Hata Sawako
 3rd Generation SKE48 Handa Ayane
-3rd Generation SKE48 Matsumura Kaori
-3rd Generation SKE48 Yakata Miki
+3rd Generation SKE48 Matsumura Kaori a.k.a. Kaotan
+3rd Generation SKE48 Yakata Miki a.k.a. Mikiti
 3rd Generation SKE48 Yanase Aiko
 3rd Generation SKE48 Yamada Erika
 
-4th Generation SKE48 Inuzuka Asana
+4th Generation SKE48 Inuzuka Asana a.k.a. Wanchan
 4th Generation SKE48 Umemoto Madoka
 4th Generation SKE48 Kaneko Shiori
-4th Generation SKE48 Kimoto Kanon
+4th Generation SKE48 Kimoto Kanon a.k.a. Non
 4th Generation SKE48 Kobayashi Ami
 4th Generation SKE48 Kobayashi Emiri
-4th Generation SKE48 Sakai Mei
+4th Generation SKE48 Sakai Mei a.k.a. Meimei / Meipuru
 4th Generation SKE48 Shibata Aya
 4th Generation SKE48 Takagi Yumana
-4th Generation SKE48 Takeuchi Mai
-4th Generation SKE48 Tsuzuki Rika
+4th Generation SKE48 Takeuchi Mai a.k.a. Maimai
+4th Generation SKE48 Tsuzuki Rika a.k.a. Rikachu
 4th Generation SKE48 Nakamura Yuka
 4th Generation SKE48 Nonoyama Marin
 4th Generation SKE48 Hara Minami
 4th Generation SKE48 Mizuno Honoka
 4th Generation SKE48 Yamashita Yukari
- 
-5th Generation SKE48 Ichino Narumi
+
+5th Generation SKE48 Ichino Narumi a.k.a. Naru
 5th Generation SKE48 Iwanaga Tsugumi
-5th Generation SKE48 Ego Yuna
+5th Generation SKE48 Ego Yuna a.k.a. Egochan
 5th Generation SKE48 Owaki Arisa
 5th Generation SKE48 Ogino Risa
 5th Generation SKE48 Suga Nanako
 5th Generation SKE48 Niidoi Sayaka
 5th Generation SKE48 Hioki Miki
 5th Generation SKE48 Fujimoto Mitsuki
-5th Generation SKE48 Futamura Haruka
+5th Generation SKE48 Futamura Haruka a.k.a. Harutamu
 5th Generation SKE48 Furuhata Nao
 5th Generation SKE48 Miyamae Ami
 5th Generation SKE48 Yamada Mizuho
 
-6th Generation SKE48 Aoki Shiori
-6th Generation SKE48 Azuma Rion
+6th Generation SKE48 Aoki Shiori a.k.a. Oshirin
+6th Generation SKE48 Azuma Rion a.k.a. Azumarion
 6th Generation SKE48 Ida Reona
 6th Generation SKE48 Ito Akane
 6th Generation SKE48 Orito Aisa
-6th Generation SKE48 Kamata Natsuki
-6th Generation SKE48 Kitagawa Ryoha
-6th Generation SKE48 Kitano Ruka
+6th Generation SKE48 Kamata Natsuki a.k.a. Nakki
+6th Generation SKE48 Kitagawa Ryoha a.k.a. Uha
+6th Generation SKE48 Kitano Ruka a.k.a. Rukatin
 6th Generation SKE48 Kitahara Yuna
-6th Generation SKE48 Kumazaki Haruka
+6th Generation SKE48 Kumazaki Haruka a.k.a. Kumachan
 6th Generation SKE48 Goto Mayuko
 6th Generation SKE48 Sasaki Yuka
 6th Generation SKE48 Sora Miyuka
-6th Generation SKE48 Takeuchi Saki
-6th Generation SKE48 Noguchi Yume
+6th Generation SKE48 Takeuchi Saki a.k.a. Sakipon
+6th Generation SKE48 Noguchi Yume a.k.a. Yumechi
 6th Generation SKE48 Hidaka Yuzuki
 6th Generation SKE48 Miyawaki Riko
 6th Generation SKE48 Yano Azuki
-6th Generation SKE48 Yamada Juna
+6th Generation SKE48 Yamada Juna a.k.a. Junakko
 6th Generation SKE48 Yamamoto Yuka
- 
-7th Generation SKE48 Aikawa Honoka
-7th Generation SKE48 Asai Yuka
-7th Generation SKE48 Ota Ayaka
-7th Generation SKE48 Obata Yuna
-7th Generation SKE48 Kataoka Narumi
-7th Generation SKE48 Kawasaki Narumi
+
+7th Generation SKE48 Aikawa Honoka a.k.a. Honono
+7th Generation SKE48 Asai Yuka a.k.a. Yuukatan
+7th Generation SKE48 Ota Ayaka a.k.a. Ayamero
+7th Generation SKE48 Obata Yuna a.k.a. Yunana
+7th Generation SKE48 Kataoka Narumi a.k.a. Narupii
+7th Generation SKE48 Kawasaki Narumi a.k.a. Naruchin
 7th Generation SKE48 Goto Rara
-7th Generation SKE48 Suenaga Oka
-7th Generation SKE48 Sugiyama Aika
-7th Generation SKE48 Takahata Yuki
+7th Generation SKE48 Suenaga Oka a.k.a. Ena
+7th Generation SKE48 Sugiyama Aika a.k.a. AiAi
+7th Generation SKE48 Takahata Yuki a.k.a. Hatagon
 7th Generation SKE48 Tsuji Nozomi
-7th Generation SKE48 Nojima Kano
-7th Generation SKE48 Machi Otoha
-7th Generation SKE48 Murai Junna
+7th Generation SKE48 Nojima Kano a.k.a. Kanochan
+7th Generation SKE48 Machi Otoha a.k.a. Oto
+7th Generation SKE48 Murai Junna a.k.a. Junchan
 7th Generation SKE48 Wada Aina
 
 1st Generation NMB48 Ota Riona
-1st Generation NMB48 Ogasawara Mayu
-1st Generation NMB48 Okita Ayaka
+1st Generation NMB48 Ogasawara Mayu a.k.a. Maachun
+1st Generation NMB48 Okita Ayaka a.k.a. Aapon
 1st Generation NMB48 Kadowaki Kanako
-1st Generation NMB48 Kawakami Rena
+1st Generation NMB48 Kawakami Rena a.k.a. Renapyon
 1st Generation NMB48 Kishino Rika
 1st Generation NMB48 Kinoshita Haruna
 1st Generation NMB48 Kinoshita Momoka
@@ -343,8 +343,8 @@
 1st Generation NMB48 Kotani Riho
 1st Generation NMB48 Koyanagi Arisa
 1st Generation NMB48 Shinohara Kanna
-1st Generation NMB48 Jonishi Kei
-1st Generation NMB48 Shiroma Miru
+1st Generation NMB48 Jonishi Kei a.k.a. Keicchi
+1st Generation NMB48 Shiroma Miru a.k.a. Mirurun
 1st Generation NMB48 Hara Mizuki
 1st Generation NMB48 Hikawa Ayame
 1st Generation NMB48 Fukumoto Aina
@@ -352,18 +352,18 @@
 1st Generation NMB48 Mori Ayaka
 1st Generation NMB48 Yamauchi Ayaka
 1st Generation NMB48 Yamagishi Natsumi
-1st Generation NMB48 Yamaguchi Yuki
+1st Generation NMB48 Yamaguchi Yuki a.k.a. Yuppi
 1st Generation NMB48 Yamada Nana
-1st Generation NMB48 Yamamoto Sayaka
-1st Generation NMB48 Yoshida Akari
-1st Generation NMB48 Watanabe Miyuki
+1st Generation NMB48 Yamamoto Sayaka a.k.a. Sayanee
+1st Generation NMB48 Yoshida Akari a.k.a. Akarin
+1st Generation NMB48 Watanabe Miyuki a.k.a. Milky
 
-2nd Generation NMB48 Azuma Yuki
-2nd Generation NMB48 Ishida Yuumi
-2nd Generation NMB48 Uno Mizuki
+2nd Generation NMB48 Azuma Yuki a.k.a. Yukiyuki / Yukitsun
+2nd Generation NMB48 Ishida Yuumi a.k.a. Yuumin
+2nd Generation NMB48 Uno Mizuki a.k.a. Miikki
 2nd Generation NMB48 Otani Riko
 2nd Generation NMB48 Okada Risako
-2nd Generation NMB48 Koga Narumi
+2nd Generation NMB48 Koga Narumi a.k.a. Naru
 2nd Generation NMB48 Kodakari Yuka
 2nd Generation NMB48 Sato Sorai
 2nd Generation NMB48 Shimada Rena
@@ -372,27 +372,27 @@
 2nd Generation NMB48 Takiyama Akane
 2nd Generation NMB48 Tanigawa Airi
 2nd Generation NMB48 Nakagawa Hiromi
-2nd Generation NMB48 Nishizawa Rurina
-2nd Generation NMB48 Hayashi Momoka
+2nd Generation NMB48 Nishizawa Rurina a.k.a. Ruririn
+2nd Generation NMB48 Hayashi Momoka a.k.a. Moka
 2nd Generation NMB48 Fujita Runa
-2nd Generation NMB48 Mita Mao
+2nd Generation NMB48 Mita Mao a.k.a. Maokyun
 2nd Generation NMB48 Murakami Ayaka
-2nd Generation NMB48 Murase Sae
-2nd Generation NMB48 Yagura Fuuko
+2nd Generation NMB48 Murase Sae a.k.a. Saepii
+2nd Generation NMB48 Yagura Fuuko a.k.a. Fuuchan
 2nd Generation NMB48 Yamamoto Hitomi
 2nd Generation NMB48 Yogi Keira
 
 3rd Generation NMB48 Akazawa Hono
-3rd Generation NMB48 Ishizuka Akari
-3rd Generation NMB48 Ijiri Anna
+3rd Generation NMB48 Ishizuka Akari a.k.a. Anchu
+3rd Generation NMB48 Ijiri Anna a.k.a. Antan
 3rd Generation NMB48 Ueda Mirei
 3rd Generation NMB48 Umehara Mako
 3rd Generation NMB48 Ota Yuuri
 3rd Generation NMB48 Kato Yuuka
-3rd Generation NMB48 Kamieda Emika
-3rd Generation NMB48 Kusaka Konomi
-3rd Generation NMB48 Kushiro Rina
-3rd Generation NMB48 Kurokawa Hazuki
+3rd Generation NMB48 Kamieda Emika a.k.a. Emichi
+3rd Generation NMB48 Kusaka Konomi a.k.a. Konomin
+3rd Generation NMB48 Kushiro Rina a.k.a. Rinacchi
+3rd Generation NMB48 Kurokawa Hazuki a.k.a. Haako
 3rd Generation NMB48 Kono Saki
 3rd Generation NMB48 Kobayashi Rikako
 3rd Generation NMB48 Sugimoto Kamo
@@ -406,11 +406,11 @@
 3rd Generation NMB48 Ishikawa Kokoro
 3rd Generation NMB48 Sasaki Nanami
 
-4th Generation NMB48 Akashi Natsuko
+4th Generation NMB48 Akashi Natsuko a.k.a. Nattsu
 4th Generation NMB48 Ishihara Masako
-4th Generation NMB48 Odan Mai
+4th Generation NMB48 Odan Mai a.k.a. Maichi
 4th Generation NMB48 Ogawa Noa
-4th Generation NMB48 Kawakami Chihiro
+4th Generation NMB48 Kawakami Chihiro a.k.a. Chihii
 4th Generation NMB48 Shibuya Nagisa
 4th Generation NMB48 Shimazaki Momoka
 4th Generation NMB48 Sugino Risa
@@ -419,20 +419,20 @@
 4th Generation NMB48 Nishimura Aika
 4th Generation NMB48 Hirose Sena
 4th Generation NMB48 Matsuoka Chiho
-4th Generation NMB48 Matsumura Megumi
-4th Generation NMB48 Morita Ayaka
-4th Generation NMB48 Yamao Rina
+4th Generation NMB48 Matsumura Megumi a.k.a. Megumin
+4th Generation NMB48 Morita Ayaka a.k.a. Ayatin
+4th Generation NMB48 Yamao Rina a.k.a. Yamarina
 
-5th Generation NMB48 Iwata Momoka
+5th Generation NMB48 Iwata Momoka a.k.a. Momorun
 5th Generation NMB48 Umeyama Cocona
-5th Generation NMB48 Kojima Karin
-5th Generation NMB48 Shimizu Rika
-5th Generation NMB48 Jonishi Rei
+5th Generation NMB48 Kojima Karin a.k.a. Kojirin
+5th Generation NMB48 Shimizu Rika a.k.a. Rikatii
+5th Generation NMB48 Jonishi Rei a.k.a. Reechan
 5th Generation NMB48 Nakagawa Mion
 5th Generation NMB48 Mizuta Shiori
 5th Generation NMB48 Mizokawa Mirai
 5th Generation NMB48 Yamada Suzu
-5th Generation NMB48 Yamamoto Ayaka
+5th Generation NMB48 Yamamoto Ayaka a.k.a. Aayan
  
 1st Generation HKT48 Anai Chihiro a.k.a. Chiichan
 1st Generation HKT48 Abe Kyoka

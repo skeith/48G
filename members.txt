@@ -551,7 +551,6 @@
 1st Generation JKT48 Sonya Pandarwaman
 1st Generation JKT48 Stella Cornelia 
 
-
 2nd Generation JKT48 Alicia Chanzia
 2nd Generation JKT48 Althea Callista 
 2nd Generation JKT48 Annisa Athia
@@ -582,7 +581,6 @@
 2nd Generation JKT48 Thalia 
 2nd Generation JKT48 Thalia Ivanka Elizabeth 
 2nd Generation JKT48 Viviyona Apriani
-
 
 3rd Generation JKT48 Alycia Ferryana
 3rd Generation JKT48 Amanda Dwi Arista
@@ -616,7 +614,6 @@
 3rd Generation JKT48 Yansen Indiani 
 3rd Generation JKT48 Zebi Magnolia Fawwaz
 
-
 4th Generation JKT48 Adriani Elisabeth
 4th Generation JKT48 Christi
 4th Generation JKT48 Cindy Hapsari Maharani Pujiantoro Putri
@@ -629,7 +626,6 @@
 4th Generation JKT48 Sri Lintang 
 4th Generation JKT48 Tan Zhi Hui Celine 
 4th Generation JKT48 Zahra Yuriva Dermawan
-
 
 5th Generation JKT48 Adhisty Zara
 5th Generation JKT48 Anggita Destiana Dewi
@@ -647,3 +643,104 @@
 5th Generation JKT48 Ruth Damayanti Sitanggang 
 5th Generation JKT48 Sania Julia Montolalu 
 5th Generation JKT48 Violeta Burhan
+
+1st Generation Nogizaka46 Akimoto Manatsu
+1st Generation Nogizaka46 Ando Mikumo
+1st Generation Nogizaka46 Ikuta Erika
+1st Generation Nogizaka46 Ikoma Rina
+1st Generation Nogizaka46 Ichiki Rena
+1st Generation Nogizaka46 Ito Nene
+1st Generation Nogizaka46 Ito Marika
+1st Generation Nogizaka46 Inoue Sayuri
+1st Generation Nogizaka46 Iwase Yumiko
+1st Generation Nogizaka46 Eto Misa
+1st Generation Nogizaka46 Kashiwa Yukina
+1st Generation Nogizaka46 Kawago Hina
+1st Generation Nogizaka46 Kawamura Mahiro
+1st Generation Nogizaka46 Saito Asuka
+1st Generation Nogizaka46 Saito Chiharu
+1st Generation Nogizaka46 Saito Yuri
+1st Generation Nogizaka46 Sakurai Reika
+1st Generation Nogizaka46 Shiraishi Mai
+1st Generation Nogizaka46 Takayama Kazumi
+1st Generation Nogizaka46 Nakada Kana
+1st Generation Nogizaka46 Nakamoto Himeka
+1st Generation Nogizaka46 Nagashima Seira
+1st Generation Nogizaka46 Nishino Nanase
+1st Generation Nogizaka46 Noujo Ami
+1st Generation Nogizaka46 Hashimoto Nanami
+1st Generation Nogizaka46 Hatanaka Seira
+1st Generation Nogizaka46 Higuchi Hina
+1st Generation Nogizaka46 Fukagawa Mai
+1st Generation Nogizaka46 Hoshino Minami
+1st Generation Nogizaka46 Matsumura Sayuri
+1st Generation Nogizaka46 Miyazawa Seira
+1st Generation Nogizaka46 Yamato Rina
+1st Generation Nogizaka46 Wakatsuki Yumi
+1st Generation Nogizaka46 Wada Maaya
+1st Generation Nogizaka46 Yamamoto Honoka
+1st Generation Nogizaka46 Yoshimoto Ayaka
+
+2nd Generation Nogizaka46 Ito Karin
+2nd Generation Nogizaka46 Ito Junna
+2nd Generation Nogizaka46 Kitano Hinako
+2nd Generation Nogizaka46 Sasaki Kotoko
+2nd Generation Nogizaka46 Shinuchi Mai
+2nd Generation Nogizaka46 Suzuki Ayane
+2nd Generation Nogizaka46 Terada Ranze
+2nd Generation Nogizaka46 Nishikawa Nanami
+2nd Generation Nogizaka46 Hori Miona
+2nd Generation Nogizaka46 Yada Risako
+2nd Generation Nogizaka46 Yamazaki Rena
+2nd Generation Nogizaka46 Yonetoku Kyoka
+2nd Generation Nogizaka46 Watanabe Miria
+2nd Generation Nogizaka46 Sagara Iori
+
+3rd Generation Nogizaka46 Ito Riria
+3rd Generation Nogizaka46 Iwamoto Renka 
+3rd Generation Nogizaka46 Umezawa Minami 
+3rd Generation Nogizaka46 Ozono Momoko 
+3rd Generation Nogizaka46 Kubo Shiori 
+3rd Generation Nogizaka46 Sakaguchi Tamami 
+3rd Generation Nogizaka46 Sato Kaede 
+3rd Generation Nogizaka46 Nakamura Reno 
+3rd Generation Nogizaka46 Mukai Hazuki 
+3rd Generation Nogizaka46 Yamashita Mizuki 
+3rd Generation Nogizaka46 Yoshida Ayano Christy 
+3rd Generation Nogizaka46 Yoda Yuki
+
+1st Generation Keyakizaka46 Ishimori Nijika
+1st Generation Keyakizaka46 Imaizumi Yui
+1st Generation Keyakizaka46 Uemura Rina
+1st Generation Keyakizaka46 Ozeki Rika
+1st Generation Keyakizaka46 Oda Nana
+1st Generation Keyakizaka46 Koike Minami
+1st Generation Keyakizaka46 Kobayashi Yui
+1st Generation Keyakizaka46 Sato Shiori
+1st Generation Keyakizaka46 Saito Fuyuka
+1st Generation Keyakizaka46 Shida Manaka
+1st Generation Keyakizaka46 Sugai Yuuka
+1st Generation Keyakizaka46 Suzuki Mizuho
+1st Generation Keyakizaka46 Suzumoto Miyu
+1st Generation Keyakizaka46 Nagasawa Nanako
+1st Generation Keyakizaka46 Habu Mizuho
+1st Generation Keyakizaka46 Harada Aoi
+1st Generation Keyakizaka46 Harada Mayu
+1st Generation Keyakizaka46 Hirate Yurina
+1st Generation Keyakizaka46 Moriya Akane
+1st Generation Keyakizaka46 Yonetani Nanami
+1st Generation Keyakizaka46 Watanabe Rika
+1st Generation Keyakizaka46 Watanabe Risa
+1st Generation Keyakizaka46 Nagahama Neru
+
+2nd Generation Keyakizaka46 Iguchi Mao
+2nd Generation Keyakizaka46 Ushio Sarina
+2nd Generation Keyakizaka46 Kakizaki Memi
+2nd Generation Keyakizaka46 Kageyama Yuuka
+2nd Generation Keyakizaka46 Kato Shiho
+2nd Generation Keyakizaka46 Saito Kyoko
+2nd Generation Keyakizaka46 Sasaki Kumi
+2nd Generation Keyakizaka46 Sasaki Mirei
+2nd Generation Keyakizaka46 Takase Mana
+2nd Generation Keyakizaka46 Takamoto Ayaka
+2nd Generation Keyakizaka46 Higashimura Mei

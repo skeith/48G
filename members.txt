@@ -434,13 +434,13 @@
 5th Generation NMB48 Yamada Suzu
 5th Generation NMB48 Yamamoto Ayaka
  
-1st Generation HKT48 Anai Chihiro
+1st Generation HKT48 Anai Chihiro a.k.a. Chiichan
 1st Generation HKT48 Abe Kyoka
 1st Generation HKT48 Imada Mina
 1st Generation HKT48 Ueki Nao
 1st Generation HKT48 Eto Sayaka
 1st Generation HKT48 Kumazawa Serina
-1st Generation HKT48 Kodama Haruka
+1st Generation HKT48 Kodama Haruka a.k.a. Haruppi
 1st Generation HKT48 Komori Yui
 1st Generation HKT48 Shimono Yuki
 1st Generation HKT48 Sugamoto Yuko
@@ -449,10 +449,10 @@
 1st Generation HKT48 Nakanishi Ayaka
 1st Generation HKT48 Nakanishi Chiyori
 1st Generation HKT48 Fukagawa Maiko
-1st Generation HKT48 Matsuoka Natsumi
-1st Generation HKT48 Miyawaki Sakura
-1st Generation HKT48 Murashige Anna
-1st Generation HKT48 Motomura Aoi
+1st Generation HKT48 Matsuoka Natsumi a.k.a. Natsu
+1st Generation HKT48 Miyawaki Sakura a.k.a. Sakuratan
+1st Generation HKT48 Murashige Anna a.k.a. Aanya
+1st Generation HKT48 Motomura Aoi a.k.a. Aoitan
 1st Generation HKT48 Moriyasu Madoka
 1st Generation HKT48 Wakatabe Haruka
 
@@ -644,57 +644,57 @@
 5th Generation JKT48 Sania Julia Montolalu 
 5th Generation JKT48 Violeta Burhan
 
-1st Generation Nogizaka46 Akimoto Manatsu a.k.a. Manattan
-1st Generation Nogizaka46 Ando Mikumo a.k.a. Anchan / Mikumochan
-1st Generation Nogizaka46 Ikuta Erika a.k.a. Ikuchan / Ikudon
-1st Generation Nogizaka46 Ikoma Rina a.k.a. Ikomachan
-1st Generation Nogizaka46 Ichiki Rena a.k.a. Renarin
-1st Generation Nogizaka46 Ito Nene a.k.a. Nenechan / Mamechan / Nenekoro
-1st Generation Nogizaka46 Ito Marika a.k.a. Bebitan / Maririn
-1st Generation Nogizaka46 Inoue Sayuri a.k.a. Sayunyan
+1st Generation Nogizaka46 Akimoto Manatsu
+1st Generation Nogizaka46 Ando Mikumo
+1st Generation Nogizaka46 Ikuta Erika
+1st Generation Nogizaka46 Ikoma Rina
+1st Generation Nogizaka46 Ichiki Rena
+1st Generation Nogizaka46 Ito Nene
+1st Generation Nogizaka46 Ito Marika
+1st Generation Nogizaka46 Inoue Sayuri
 1st Generation Nogizaka46 Iwase Yumiko
-1st Generation Nogizaka46 Eto Misa a.k.a. Misamisa
-1st Generation Nogizaka46 Kashiwa Yukina 
-1st Generation Nogizaka46 Kawago Hina a.k.a. Hinatan / Hinapyon
-1st Generation Nogizaka46 Kawamura Mahiro a.k.a. Rottii
-1st Generation Nogizaka46 Saito Asuka a.k.a. Ashurin
-1st Generation Nogizaka46 Saito Chiharu a.k.a. Chiichan / Chiharun
-1st Generation Nogizaka46 Saito Yuri a.k.a. Yuttan
+1st Generation Nogizaka46 Eto Misa
+1st Generation Nogizaka46 Kashiwa Yukina
+1st Generation Nogizaka46 Kawago Hina
+1st Generation Nogizaka46 Kawamura Mahiro
+1st Generation Nogizaka46 Saito Asuka
+1st Generation Nogizaka46 Saito Chiharu
+1st Generation Nogizaka46 Saito Yuri
 1st Generation Nogizaka46 Sakurai Reika
-1st Generation Nogizaka46 Shiraishi Mai a.k.a. Maiyan
-1st Generation Nogizaka46 Takayama Kazumi a.k.a. Kazumin
-1st Generation Nogizaka46 Nakada Kana a.k.a. Kanarin
-1st Generation Nogizaka46 Nakamoto Himeka a.k.a. Himetan
-1st Generation Nogizaka46 Nagashima Seira a.k.a. Serirarin
-1st Generation Nogizaka46 Nishino Nanase a.k.a. Naachan / Nanasemaru
-1st Generation Nogizaka46 Noujo Ami a.k.a. Amiami
-1st Generation Nogizaka46 Hashimoto Nanami a.k.a. Nanamin
-1st Generation Nogizaka46 Hatanaka Seira a.k.a. Seitan
-1st Generation Nogizaka46 Higuchi Hina a.k.a. Hinachima
-1st Generation Nogizaka46 Fukagawa Mai a.k.a. Maimai
-1st Generation Nogizaka46 Hoshino Minami a.k.a. Hoshimina
-1st Generation Nogizaka46 Matsumura Sayuri a.k.a. Sayurin / Matsun
-1st Generation Nogizaka46 Miyazawa Seira a.k.a. Secchan
-1st Generation Nogizaka46 Yamato Rina a.k.a. Tomatan / Yamatomato / Riichan
-1st Generation Nogizaka46 Wakatsuki Yumi a.k.a. Myumyu
+1st Generation Nogizaka46 Shiraishi Mai
+1st Generation Nogizaka46 Takayama Kazumi
+1st Generation Nogizaka46 Nakada Kana
+1st Generation Nogizaka46 Nakamoto Himeka
+1st Generation Nogizaka46 Nagashima Seira
+1st Generation Nogizaka46 Nishino Nanase
+1st Generation Nogizaka46 Noujo Ami
+1st Generation Nogizaka46 Hashimoto Nanami
+1st Generation Nogizaka46 Hatanaka Seira
+1st Generation Nogizaka46 Higuchi Hina
+1st Generation Nogizaka46 Fukagawa Mai
+1st Generation Nogizaka46 Hoshino Minami
+1st Generation Nogizaka46 Matsumura Sayuri
+1st Generation Nogizaka46 Miyazawa Seira
+1st Generation Nogizaka46 Yamato Rina
+1st Generation Nogizaka46 Wakatsuki Yumi
 1st Generation Nogizaka46 Wada Maaya
 1st Generation Nogizaka46 Yamamoto Honoka
 1st Generation Nogizaka46 Yoshimoto Ayaka
 
-2nd Generation Nogizaka46 Ito Karin 
+2nd Generation Nogizaka46 Ito Karin
 2nd Generation Nogizaka46 Ito Junna
-2nd Generation Nogizaka46 Kitano Hinako a.k.a. Kiichan
+2nd Generation Nogizaka46 Kitano Hinako
 2nd Generation Nogizaka46 Sasaki Kotoko
-2nd Generation Nogizaka46 Shinuchi Mai a.k.a. Maichun
-2nd Generation Nogizaka46 Suzuki Ayane a.k.a. Aachan
-2nd Generation Nogizaka46 Terada Ranze a.k.a. Ranran
+2nd Generation Nogizaka46 Shinuchi Mai
+2nd Generation Nogizaka46 Suzuki Ayane
+2nd Generation Nogizaka46 Terada Ranze
 2nd Generation Nogizaka46 Nishikawa Nanami
 2nd Generation Nogizaka46 Hori Miona
 2nd Generation Nogizaka46 Yada Risako
-2nd Generation Nogizaka46 Yamazaki Rena a.k.a. Renachi
+2nd Generation Nogizaka46 Yamazaki Rena
 2nd Generation Nogizaka46 Yonetoku Kyoka
-2nd Generation Nogizaka46 Watanabe Miria a.k.a. Miririn / Miichan / Nabechan / Miriatan
-2nd Generation Nogizaka46 Sagara Iori a.k.a. Iochin / Iorin / Iochan
+2nd Generation Nogizaka46 Watanabe Miria
+2nd Generation Nogizaka46 Sagara Iori
 
 3rd Generation Nogizaka46 Ito Riria
 3rd Generation Nogizaka46 Iwamoto Renka 
